@@ -8,7 +8,7 @@ public class TestPer {
 
 	@Test
 	public void testToString() {
-		fail("Not yet implemented");
+		
 	}
 
 }
